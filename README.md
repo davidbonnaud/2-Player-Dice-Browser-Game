@@ -1,3 +1,8 @@
 # Pig Game
+This game is a 2 player dice game where 2 players roll a pair of dice in the goal of reaching a set total score. Per turn, each player
+can roll as many times as they like to stack up their round score, but every time a player rolls a 1, they lose their turn and if they 
+roll a pair of 6's, their total score is reset to 0. 
+
+Players can determine the value they want to play to via prompt and has a reset function without reloading the page.
 
 <img src="dicegame.jpg" alt="Dice Game Screenshot">
